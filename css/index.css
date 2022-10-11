@@ -1,0 +1,15 @@
+.body-content {
+    margin-left: 100px;
+}
+.content {
+  margin-bottom: 120px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 950px;
+  color: white;
+  text-align: center;
+  opacity: .85;
+}
